@@ -1,0 +1,28 @@
+{
+  "name": "event-manager",
+  "version": "1.0.0",
+  "description": "Invitation-only guest lists, RSVP and door check-in. BUE 26CSCN29H Cloud Computing and Cloud Security, Group 6.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azizisnothere/Event-Manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Azizisnothere/Event-Manager/issues"
+  },
+  "homepage": "https://github.com/Azizisnothere/Event-Manager#readme",
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "pg": "^8.23.1"
+  }
+}
