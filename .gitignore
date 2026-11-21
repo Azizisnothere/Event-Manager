@@ -7,3 +7,5 @@ build/
 out/
 .DS_Store
 Thumbs.db
+dev/outbox/
+infra/deploy-output.json
